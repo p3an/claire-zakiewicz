@@ -3,4 +3,4 @@
 
 (A work in progress)
 
-see progress at http://natalialkb.github.io/ssemple.
+see progress at http://p3an.github.io/you-are.
